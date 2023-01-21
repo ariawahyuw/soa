@@ -25,7 +25,7 @@ The animation involves the spiral dynamic motions of each randomly generated poi
     
 There are several examples in "[**problems**](<problems>)" folder. To use it, change these following lines on [**animation.py**](animation.py):
 `from problems.problem* import ...`
-to problem's number that you want to be animated.c For example:
+to problem's number that you want to be animated. For example:
 
     from problems.problem1 import ...
 
@@ -36,6 +36,6 @@ To only plot the result, execute:
 
 There are several examples in "[**problems**](<problems>)" folder. To use it, change these following lines on [**soa.py**](soa.py):
 `from problems.problem* import ...`
-to problem's number that you want to be animated.c For example:
+to problem's number that you want to be animated. For example:
 
     from problems.problem1 import ...
