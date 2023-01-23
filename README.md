@@ -12,7 +12,7 @@ K. Sidarto and A. Kania, “Finding All Solutions of Systems of Nonlinear Equati
 
 Tested in: Python 3.10.9 64-bit
 
-Some of the plotting results can be found in "[**images**](<images>)" folder.
+Some of the plotting results can be found in "[**images**](<images>)" folder. For more explanation, check out the [**resume**](<Resume.pdf>)
 <figure>
     <img src="./images/contour3.png" width="376" height="360">
 </figure>
